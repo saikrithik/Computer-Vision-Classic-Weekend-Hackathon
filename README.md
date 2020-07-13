@@ -19,4 +19,5 @@ Rank 2nd/224 participants Repository of solution
 - fastai library for the model
 - matplotlib and seaborn was used for plotting and analyzing the data
 ## Competition Result Private LB
+Rank: 4th on public LB and 2nd on private LB \
 [Link to LeaderBoard](https://www.machinehack.com/hackathons/5f05b7e78842ae057f62ece5)
